@@ -1,10 +1,11 @@
 public class FloydWarshall {
     public static void main(String[] args) {
         //99999 represents infinity
-        int graph[][] = { { 0, 8, 99999, 1 },
-                { 99999, 0, 1, 99999 },
-                { 4, 99999, 0, 99999 },
-                { 99999, 2, 4, 0 }
+        int graph[][] = {
+            { 0, 8, 99999, 1 },
+            { 99999, 0, 1, 99999 },
+            { 4, 99999, 0, 99999 },
+            { 99999, 2, 4, 0 }
         };
         int ar[][] = new int[graph.length][graph.length];
         for (int i = 0; i < graph.length; i++)
