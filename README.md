@@ -45,8 +45,8 @@ The repository is organized into categories based on the type of algorithm or da
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Algorithms-DSA-Tutorial.git
-   cd Algorithms-DSA-Tutorial
+   git clone https://github.com/your-username/Tutorial_Algorithms-DSA.git
+   cd Tutorial_Algorithms-DSA
    ```
 
 2. Open the Java files in your favorite IDE (e.g., IntelliJ, Eclipse, VS Code) or compile and run them from the command line.
