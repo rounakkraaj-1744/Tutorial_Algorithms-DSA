@@ -23,7 +23,7 @@ The repository is organized into categories based on the type of algorithm or da
   - Job Sequencing with Deadlines
 - **String Algorithms**
   - Rabin-Karp Algorithm
-  - KMP Algorithm
+  - KMP Algorithm (String pattern matching)
 - **Other Algorithms**
   - Huffman Encoding
   - Activity Selection Problem
