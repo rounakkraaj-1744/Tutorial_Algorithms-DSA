@@ -3,8 +3,8 @@
 /out
 /.idea
 AVLTree.java
-BFS
-Kruskal
-LongestIncreasingSubsequence
-MatrixChainMultiplication
-Trie
+BFS.java
+Kruskal.java
+LongestIncreasingSubsequence.java
+MatrixChainMultiplication.java
+Trie.java
