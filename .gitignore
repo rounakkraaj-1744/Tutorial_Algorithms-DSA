@@ -2,12 +2,9 @@
 
 /out
 /.idea
-
 AVLTree.java
-BFS.java
-BST.java
-KadanesAlgo.java
-Kruskal.java
-LongestIncreasingSubsequence.java
-MatrixChainMultiplication.java
-Trie.java
+BFS
+Kruskal
+LongestIncreasingSubsequence
+MatrixChainMultiplication
+Trie
